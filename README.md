@@ -7,6 +7,9 @@ Quickstart guide for PlutoSDR (ADALM-PLUTO)
 RPi OS specifically for SDR
 * https://github.com/luigifreitas/pisdr-image.git
 
+RPi scripts for modifying stock Raspbian for ham radio and security
+* https://gitlab.com/amrron/setup-scripts.git
+
 Windows development environment for SDR
 * https://github.com/pothosware/PothosSDR.git
 
