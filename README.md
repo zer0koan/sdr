@@ -21,3 +21,6 @@ Official Windows drivers for ADALM-PLUTO
 
 SDR# for Windows (from Airspy)
 * https://airspy.com/download/
+
+SDR# PlutoSDR plugin
+* https://github.com/Manawyrm/sdrsharp-plutosdr/releases
