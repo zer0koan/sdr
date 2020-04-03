@@ -1,6 +1,9 @@
 # sdr
 repo for sdr-related research/scripts
 
+Quickstart guide for PlutoSDR (ADALM-PLUTO)
+* https://www.rtl-sdr.com/plutosdr-quickstart-guide/
+
 RPi OS specifically for SDR
 * https://github.com/luigifreitas/pisdr-image.git
 
