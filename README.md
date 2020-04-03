@@ -7,6 +7,9 @@ Quickstart guide for PlutoSDR (ADALM-PLUTO)
 RPi OS specifically for SDR
 * https://github.com/luigifreitas/pisdr-image.git
 
+Windows development environment for SDR
+* https://github.com/pothosware/PothosSDR.git
+
 Turning the ADALM-PLUTO into a spectrum analyzer
 * http://www.albfer.com/en/author/wp_10278758/
 
