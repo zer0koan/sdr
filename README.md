@@ -18,3 +18,6 @@ Turning the ADALM-PLUTO into a spectrum analyzer
 
 Official Windows drivers for ADALM-PLUTO
 * https://github.com/analogdevicesinc/plutosdr-m2k-drivers-win.git
+
+SDR# for Windows (from Airspy)
+* https://airspy.com/download/
