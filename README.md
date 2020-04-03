@@ -21,6 +21,21 @@ Official Windows drivers for ADALM-PLUTO
 
 SDR# for Windows (from Airspy)
 * https://airspy.com/download/
+* Closed/commercial
+* RX
+* SDR# PlutoSDR plugin
+  * https://github.com/Manawyrm/sdrsharp-plutosdr/releases
+* SDR# satellite tracking plugin
+  * http://gpredict.oz9aec.net/
+  * https://github.com/csete/gpredict/releases
 
-SDR# PlutoSDR plugin
-* https://github.com/Manawyrm/sdrsharp-plutosdr/releases
+SDR-Radio
+* https://www.sdr-radio.com/download
+* Closed/commercial
+* RX, TX, and satellite tracking
+
+SDR Angel
+* https://github.com/f4exb/sdrangel
+* Open source
+* RX and TX
+* Supports Windows, Linux
