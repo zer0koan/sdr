@@ -4,6 +4,9 @@ repo for sdr-related research/scripts
 Quickstart guide for PlutoSDR (ADALM-PLUTO)
 * https://www.rtl-sdr.com/plutosdr-quickstart-guide/
 
+Device drivers for PlutoSDR (ADALM-PLUTO)
+* https://github.com/analogdevicesinc/plutosdr-m2k-drivers-win/releases
+
 RPi OS specifically for SDR
 * https://github.com/luigifreitas/pisdr-image.git
 
