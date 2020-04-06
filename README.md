@@ -42,3 +42,6 @@ SDR Angel
 * Open source
 * RX and TX
 * Supports Windows, Linux
+
+SatNOGS Rotator build
+* https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator.git
