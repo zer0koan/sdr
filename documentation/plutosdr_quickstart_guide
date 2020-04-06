@@ -1,0 +1,12 @@
+1. Install the Windows drivers for the ADALM-PLUTO SDR:
+  * https://github.com/analogdevicesinc/plutosdr-m2k-drivers-win/releases
+2. Connect the ADALM-PLUTO SDR via USB to computer:
+  * Device Manager > Ports (COM & LPT) > PlutoSDR Serial Console (COM#)
+  * PuTTY > Serial > COM#
+    * Login: root; Password: analog
+  * Change the firmware environmental variables to treat the AD9363 as an AD9364, to extend the range:
+    * fw_setenv attr_name compatible
+    * fw_setenv attr_value "ad9364"
+    * pluto_reboot reset
+3. Start SDR-Radio Software (currently on Ver3)
+4. Set Definition to PlutoSDR
