@@ -8,5 +8,8 @@
     * fw_setenv attr_name compatible
     * fw_setenv attr_value "ad9364"
     * pluto_reboot reset
+  * Reconnect and change the firmware environmental variable to unlock both CPUs:
+   * fw_setenv maxcpus
+   * pluto_reboot reset
 3. Start SDR-Radio Software (currently on Ver3)
 4. Set Definition to PlutoSDR
